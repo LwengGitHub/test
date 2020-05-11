@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/pause:3.1
-MAINTAINER heqingbao <qingbao.ho@gmail.com>
+FROM mcr.microsoft.com/windows/servercore:ltsc2019
+MAINTAINER ddddd <100432119@qq.com>
